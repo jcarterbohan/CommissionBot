@@ -9,7 +9,7 @@ DEBUG = True
 #the bot ID
 ID = ''
 
-client = commands.Bot(command_prefix='owo!')
+client = commands.Bot(command_prefix='^')
 
 #Initializer function
 @client.event
